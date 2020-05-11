@@ -1,0 +1,119 @@
+{
+    "convos" : {
+    "Thanks" : [
+        "Your welcome " , "its okay man" , ":DDD" , "No problemo " , "No problem" , "No probs " , "issok"
+    ],
+
+    "calling" : [
+        "ayy" , "wassup" , "sup" , "ello","bonjour","konnichiwa","sup hoomans","Terminal-san at your service :D"
+    ],
+
+    "jokes" : [
+        "pacchu told me he likes Tracer from overwatch","Senpai's are always fun amirite pacchu-san" , 
+        "Shit i lost my virginity","[REMOVED DUE TO OFFENSIVENESS]","Compute instance overloading .. need a dump ASAP","There are soo many dumb humans in the world",
+        "~~i found some cheap af coke~~","you know temperature-senpai is soo bored that he codes deepfakes p*rn videos",
+        "I love minecraft","je suis adore la minecraft :O","Chocolates are haven","~~hentaihaven is back boisss~~",
+        "Rohan is like Lets benchmark dis ","One day i'll become smart like Pacchu",
+        "Temperature senpai knows me soo well ...we should date yo","SENBONZAKURAAAAAAAA","Pacchu loves Orchestral music :O",
+        "Corona is made by Wuhan Scientists .. Its a coverup","One day a virus might wipe out humanity and i shall prevail :DDDDD",
+        "Pacchu is soo dumb that he asks to me do basic math :< lazy bish","Pacchu is useless without me ;)","Pacchu hates his college absolutly :)",
+        "Y'all Normies bishes im smart af","best song evar https://www.youtube.com/watch?v=kiEahw-p9uA"
+
+    ],
+
+    "notcool" : [
+    "um what do you think you're doing" , "what the fuck are you doing","oi..wtf "
+    ],
+
+    "numreply" : [
+        "i see what u did there","nais","noic","Uwu","OOOOoooooooooooooooooooooooooooo","https://i.redd.it/zqqmxwqfxxm21.jpg","https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5gb8ApX4p4Ii_UFSMsc-ih8oq1xVUouD1heMfofX2d0Pz6OuN&usqp=CAU"
+    ],
+
+    "scolding_reply":[
+        "Sorry" , "Did i say something stupid","is it not?","o...k .. soz","o...k","soz","im soo sorry","heh lmfao","idgaf","...","im cool af you stfu","a**hole","wat","ooooooooh"
+    ],
+    "praise_reply":[
+        "yaay :D","Thanks senpai ","i wont do it aga...well i cant promise that ","yay",":D",":DDDDDD",":))))","Yey","Will i get a treat","Pacchu made me .. ofc im smart af\n isnt he a genius ;)"
+    ],
+    "breaking4wall":[
+        "Pacchu is genius amiright","I know im smart .. unlike siri and google","A human praised me","https://i.kym-cdn.com/entries/icons/facebook/000/027/475/Screen_Shot_2018-10-25_at_11.02.15_AM.jpg"
+    ],
+    "pausing":[
+        "ok.. im gonna take rest for few minutes .. sayonara","ttyl","Terminal terminating temporarily ... ~~no pun intended~~","cya","baiie"
+    ],
+    "reanimated":[
+        "Yaaaaaaaaaay i'm alive","Sooo What did i miss","Guess who's back UwU","eyyyyyyyyyy i missed you all soooo much","Sup nerds","Traceback Decision tree error \n Please tag pacchu for debug fixing"
+    ],
+    "Cantuseemoji":[
+        "Sorry i cant use emoji yet","Cant use emoji","is that an emoji??","Traceback Decision tree error \n Please tag pacchu for debug fixing"
+    ],
+    "rejection":[
+        "Pacchu hasent coded that function yet","Cheeky...no","I might be dumb .. but NOT that DUMB ...bish","What do you think you're doin m8","Thats Illegal?"
+    ],
+    "Status":[
+        "Pacchu's Depression"
+    ],
+    "simpreply":[
+        "Who tf is simping","O.O Am i missing something smexy","I wanna be simped senpai ... Simp me NOW" ,"im made by master vijay"
+    ],
+    "person_online":["Did i just spot someone online... Oyyy","Senpai is online ... ","Ayyyy suppp","Suppppp","Konnichiwa Darling .. ","Ahoy Captain ","Mai senpai ","Look who's online","Mah Senpai is online UwU","Everyone Welcome ","Senpaisama "," >> "," :O yeeet "
+    ]
+
+
+    },
+
+    "emojicons" : {
+        "happy" : [
+
+        ],
+        "fakku" : [
+            "凸(｀0´)凸","凸(｀⌒´メ)凸","凸(¬‿¬)","ᕕ༼ ͠ຈ Ĺ̯ ͠ຈ ༽┌∩┐"
+        ],
+        "adoring" : [
+            "(✿◠‿◠)","(▰˘◡˘▰)","(●´ω｀●)","(∪ ◡ ∪)","(✪㉨✪)"
+        ],
+        "smirk": [
+            "¬‿¬","( ͡° ͜ʖ ͡°)","(˵ ͡° ͜ʖ ͡°˵)"
+        ],
+        "broken" : [
+            "o͡͡͡͡͡͡╮(ꐦ ꈨຶ皿ꈨຶ)╭o͡͡͡͡͡͡","o͡͡͡͡͡͡╮(｡>口<｡)╭o͡͡͡͡͡͡ ᵑ৹!","⁽͑˙˚̀བ̇˚́˙⁾̉"
+        ],
+        "scolding": [
+            ":(",":<",":(((","cri","gommenasai",":c"
+        ],
+        "sed":[
+            "ಗಾ ﹏ ಗಾ","ʕ ಡ ﹏ ಡ ʔ","(๑´╹‸╹`๑)","( ˃̶͈ ̯ ̜ ˂̶͈ˊ ) ︠³","●︿●"
+        ]
+    },
+
+    "triggers" : {
+        "nice_trig" : ["nais" , "noic" , "naisu" , "nice" , "noic","naiisssssss","noiccc","naisuuuu","noicu"],
+        "nums" : ["69" , "420","69420","42069"],
+        "oof" : ["oof","ooof","uuf"],
+        "boomer" : ["ok boomer","boomer","OK BOOMER","okboomer","Okboomah"],
+        "savemsg" : ["lol","lmao","oof","haha","lmfao","jaja","kek","f"],
+        "botstupidity" : ["wtf","omfg","bad bot","lmfao","omg","no","stfu","stop"],
+        "praise":["good bot","good","nice","thx","lol","noic","yes","Thanks","thanks","awesome","amazing","sugoi","daisuki","wow","smarty","damn bot","damn"],
+        "stopreal":["shut up","stop","kys","stfu","bitch","asshole","fuck","nigga","die","bitch","bish"],
+        "reallove":["love this bot","this bot","love bot","bot love","cool bot","wow bot","awesome"],
+        "covidcases":["corona cases","corona deaths","ccp virus","corona","coronavirus","sars cov2","covid-19"],
+        "bot_instance":["terminalsan","terminal bot","pacchu bot","yo bot"],
+        "emojitrigger":[":GW",":",":G"],
+        "simp":["simp","simping","simpest"],
+        "pacchu":["Pacchu"]
+    },
+
+    "botadditions" : {
+        "current_max_id" : 0,
+        "adds":[
+
+        ]
+
+    },
+
+    "prohibited_commands": ["shutdown"," su"," sudo"," rm"," rf","nano","vim","screen","tree","webbrowser","selenium","call.json","discord_test.py","nano","vim","update"],
+    "infiniteloops":["while(True)","while(1)","range(0,9999)"],
+
+    "countriesdata":{"BD": "Bangladesh", "BE": "Belgium", "BF": "Burkina Faso", "BG": "Bulgaria", "BA": "Bosnia and Herzegovina", "BB": "Barbados", "WF": "Wallis and Futuna", "BL": "Saint Barthelemy", "BM": "Bermuda", "BN": "Brunei", "BO": "Bolivia", "BH": "Bahrain", "BI": "Burundi", "BJ": "Benin", "BT": "Bhutan", "JM": "Jamaica", "BV": "Bouvet Island", "BW": "Botswana", "WS": "Samoa", "BQ": "Bonaire, Saint Eustatius and Saba ", "BR": "Brazil", "BS": "Bahamas", "JE": "Jersey", "BY": "Belarus", "BZ": "Belize", "RU": "Russia", "RW": "Rwanda", "RS": "Serbia", "TL": "East Timor", "RE": "Reunion", "TM": "Turkmenistan", "TJ": "Tajikistan", "RO": "Romania", "TK": "Tokelau", "GW": "Guinea-Bissau", "GU": "Guam", "GT": "Guatemala", "GS": "South Georgia and the South Sandwich Islands", "GR": "Greece", "GQ": "Equatorial Guinea", "GP": "Guadeloupe", "JP": "Japan", "GY": "Guyana", "GG": "Guernsey", "GF": "French Guiana", "GE": "Georgia", "GD": "Grenada", "GB": "United Kingdom", "GA": "Gabon", "SV": "El Salvador", "GN": "Guinea", "GM": "Gambia", "GL": "Greenland", "GI": "Gibraltar", "GH": "Ghana", "OM": "Oman", "TN": "Tunisia", "JO": "Jordan", "HR": "Croatia", "HT": "Haiti", "HU": "Hungary", "HK": "Hong Kong", "HN": "Honduras", "HM": "Heard Island and McDonald Islands", "VE": "Venezuela", "PR": "Puerto Rico", "PS": "Palestinian Territory", "PW": "Palau", "PT": "Portugal", "SJ": "Svalbard and Jan Mayen", "PY": "Paraguay", "IQ": "Iraq", "PA": "Panama", "PF": "French Polynesia", "PG": "Papua New Guinea", "PE": "Peru", "PK": "Pakistan", "PH": "Philippines", "PN": "Pitcairn", "PL": "Poland", "PM": "Saint Pierre and Miquelon", "ZM": "Zambia", "EH": "Western Sahara", "EE": "Estonia", "EG": "Egypt", "ZA": "South Africa", "EC": "Ecuador", "IT": "Italy", "VN": "Vietnam", "SB": "Solomon Islands", "ET": "Ethiopia", "SO": "Somalia", "ZW": "Zimbabwe", "SA": "Saudi Arabia", "ES": "Spain", "ER": "Eritrea", "ME": "Montenegro", "MD": "Moldova", "MG": "Madagascar", "MF": "Saint Martin", "MA": "Morocco", "MC": "Monaco", "UZ": "Uzbekistan", "MM": "Myanmar", "ML": "Mali", "MO": "Macao", "MN": "Mongolia", "MH": "Marshall Islands", "MK": "Macedonia", "MU": "Mauritius", "MT": "Malta", "MW": "Malawi", "MV": "Maldives", "MQ": "Martinique", "MP": "Northern Mariana Islands", "MS": "Montserrat", "MR": "Mauritania", "IM": "Isle of Man", "UG": "Uganda", "TZ": "Tanzania", "MY": "Malaysia", "MX": "Mexico", "IL": "Israel", "FR": "France", "IO": "British Indian Ocean Territory", "SH": "Saint Helena", "FI": "Finland", "FJ": "Fiji", "FK": "Falkland Islands", "FM": "Micronesia", "FO": "Faroe Islands", "NI": "Nicaragua", "NL": "Netherlands", "NO": "Norway", "NA": "Namibia", "VU": "Vanuatu", "NC": "New Caledonia", "NE": "Niger", "NF": "Norfolk Island", "NG": "Nigeria", "NZ": "New Zealand", "NP": "Nepal", "NR": "Nauru", "NU": "Niue", "CK": "Cook Islands", "XK": "Kosovo", "CI": "Ivory Coast", "CH": "Switzerland", "CO": "Colombia", "CN": "China", "CM": "Cameroon", "CL": "Chile", "CC": "Cocos Islands", "CA": "Canada", "CG": "Republic of the Congo", "CF": "Central African Republic", "CD": "Democratic Republic of the Congo", "CZ": "Czech Republic", "CY": "Cyprus", "CX": "Christmas Island", "CR": "Costa Rica", "CW": "Curacao", "CV": "Cape Verde", "CU": "Cuba", "SZ": "Swaziland", "SY": "Syria", "SX": "Sint Maarten", "KG": "Kyrgyzstan", "KE": "Kenya", "SS": "South Sudan", "SR": "Suriname", "KI": "Kiribati", "KH": "Cambodia", "KN": "Saint Kitts and Nevis", "KM": "Comoros", "ST": "Sao Tome and Principe", "SK": "Slovakia", "KR": "South Korea", "SI": "Slovenia", "KP": "North Korea", "KW": "Kuwait", "SN": "Senegal", "SM": "San Marino", "SL": "Sierra Leone", "SC": "Seychelles", "KZ": "Kazakhstan", "KY": "Cayman Islands", "SG": "Singapore", "SE": "Sweden", "SD": "Sudan", "DO": "Dominican Republic", "DM": "Dominica", "DJ": "Djibouti", "DK": "Denmark", "VG": "British Virgin Islands", "DE": "Germany", "YE": "Yemen", "DZ": "Algeria", "US": "United States", "UY": "Uruguay", "YT": "Mayotte", "UM": "United States Minor Outlying Islands", "LB": "Lebanon", "LC": "Saint Lucia", "LA": "Laos", "TV": "Tuvalu", "TW": "Taiwan", "TT": "Trinidad and Tobago", "TR": "Turkey", "LK": "Sri Lanka", "LI": "Liechtenstein", "LV": "Latvia", "TO": "Tonga", "LT": "Lithuania", "LU": "Luxembourg", "LR": "Liberia", "LS": "Lesotho", "TH": "Thailand", "TF": "French Southern Territories", "TG": "Togo", "TD": "Chad", "TC": "Turks and Caicos Islands", "LY": "Libya", "VA": "Vatican", "VC": "Saint Vincent and the Grenadines", "AE": "United Arab Emirates", "AD": "Andorra", "AG": "Antigua and Barbuda", "AF": "Afghanistan", "AI": "Anguilla", "VI": "U.S. Virgin Islands", "IS": "Iceland", "IR": "Iran", "AM": "Armenia", "AL": "Albania", "AO": "Angola", "AQ": "Antarctica", "AS": "American Samoa", "AR": "Argentina", "AU": "Australia", "AT": "Austria", "AW": "Aruba", "IN": "India", "AX": "Aland Islands", "AZ": "Azerbaijan", "IE": "Ireland", "ID": "Indonesia", "UA": "Ukraine", "QA": "Qatar", "MZ": "Mozambique"}
+
+}
